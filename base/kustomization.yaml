@@ -12,5 +12,5 @@ images:
 
 commonLabels:
   app: coit-frontend
-  managed-by: kustomize
-
+  managed-by: kustomization
+  
